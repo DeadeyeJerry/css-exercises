@@ -64,3 +64,6 @@ ul {
   flex-direction: row;
   gap: 1em;
 }
+.container {
+  gap: 52px;
+}
